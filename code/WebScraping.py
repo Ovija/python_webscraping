@@ -1,8 +1,4 @@
-#Ovija Vettimayilnathan (Student B)
-#CIP02 F23 Projekt
-#Gruppe 16
-#Galaxus Scraping
-
+# Web Scraping
 
 import time
 
@@ -92,7 +88,7 @@ def main():
     # Funktion aufrufen um alle Produkt Informationen zu holen
     df_ProdInfo = get_product_info()
     # DataFrame in ein CSV schreiben
-    #file_path = os.path.join(os.getcwd(), '..', 'Vettimayilnathan_Ovija_studentB_Data/Vettimayilnathan_Ovija_studentB_Data_stage1.csv')
+    #file_path = os.path.join(os.getcwd(), '..', 'data/stage1.csv')
     #df_ProdInfo.to_csv(file_path, index=False)
     df_ProdInfo.to_csv("Scrape.csv")
     print()
