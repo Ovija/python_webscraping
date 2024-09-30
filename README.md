@@ -10,7 +10,7 @@ This project was developed as part of a course, focused on web scraping data ana
 
 ## Code Structure:
 
-*  **Start the scraper:
+*  *Start the scraper:*
     The scraped data will be saved into a CSV file named Scrape.csv.
 *  **Data Cleaning:
     Data is cleaned and transformed for further steps.
