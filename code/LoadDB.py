@@ -1,7 +1,4 @@
-#Ovija Vettimayilnathan (Student B)
-#CIP02 F23 Projekt
-#Gruppe 16
-#Galaxus Load MariaDB
+# Load to MariaDB
 
 # Module Imports
 import mariadb
@@ -12,12 +9,12 @@ import pandas as pd
 def get_files():
 
     # stage 3 holen
-    file_path1 = os.path.join(os.getcwd(), '..','Vettimayilnathan_Ovija_studentB_Data/Vettimayilnathan_Ovija_studentB_Data_stage3.csv')
+    file_path1 = os.path.join(os.getcwd(), '..','data/stage3.csv')
     # File lesen/laden
     df_Galaxus = pd.read_csv(file_path1,encoding='UTF-8')
 
     # merge holen
-    file_path2 = os.path.join(os.getcwd(), '..','Vettimayilnathan_Ovija_studentB_Data/Vettimayilnathan_Ovija_studentB_Data_merged.csv')
+    file_path2 = os.path.join(os.getcwd(), '..','data/merged.csv')
     # File lesen/laden
     df_Merged = pd.read_csv(file_path2, encoding='UTF-8')
 
