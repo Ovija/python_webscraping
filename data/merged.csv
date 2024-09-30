@@ -1,0 +1,209 @@
+Marke,Modell,Farbe,Speicher,Display_Inches,Display_CM,Mobilfunk,Rueckkamera,Frontkamera,Modelljahr,Gesichtserkennung,Produkt,Kategorie_Farbe,Med_Preis,Gal_Preis,Med_Gesamtkundenbewertung,Med_Anzahl_Kundenbewertung,Gal_Markenanteil,Gal_Mobilfunkanteil,Preisdifferenz
+Apple,iPhone 14 Pro,SpaceBlack,256.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,schwarz,1100.0,1129.0,4.0,16.0,16.29,59.04,29.0
+Apple,iPhone 13,Midnight,128.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,719.0,726.0,4.0,56.0,16.29,59.04,7.0
+Apple,iPhone 14 Pro Max,SpaceBlack,128.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,schwarz,1125.0,1100.0,4.0,8.0,16.29,59.04,-25.0
+Apple,iPhone 14,Midnight,128.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,768.0,769.0,4.0,9.0,16.29,59.04,1.0
+Apple,iPhone 14 Pro,DeepPurple,256.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1132.0,1125.0,4.0,16.0,16.29,59.04,-7.0
+Apple,iPhone 14 Pro Max,SpaceBlack,256.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,schwarz,1269.0,1259.0,4.0,9.0,16.29,59.04,-10.0
+Samsung,Galaxy A53 5G,AwesomePeach,128.0,6.5,16.5,5G, 64 ,32.0,0,0.0,Samsung Galaxy A53 5G,rest,371.7,389.55,0.0,0.0,17.6,59.04,17.850000000000023
+Xiaomi,Redmi 9A,GraniteGrey,32.0,6.53,16.6,4G, 13 ,5.0,0,1.0,Xiaomi Redmi 9A,rest,99.95,89.0,0.0,0.0,18.3,39.02,-10.950000000000003
+Apple,iPhone 14 Pro,DeepPurple,128.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1029.0,1029.0,4.0,16.0,16.29,59.04,0.0
+Samsung,Galaxy A33 5G,AwesomeBlack,128.0,6.4,16.3,5G, 48 ,13.0,0,0.0,Samsung Galaxy A33 5G,schwarz,302.7,289.8,0.0,0.0,17.6,59.04,-12.899999999999977
+Apple,iPhone 14,Midnight,256.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,959.0,961.0,5.0,5.0,16.29,59.04,2.0
+Apple,iPhone 13 mini,Green,128.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,599.0,599.0,5.0,2.0,16.29,59.04,0.0
+Apple,iPhone 14 Pro,SpaceBlack,128.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,schwarz,1059.0,1001.0,4.0,18.0,16.29,59.04,-58.0
+Apple,iPhone 14,Starlight,128.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,768.0,768.0,5.0,9.0,16.29,59.04,0.0
+Apple,iPhone 14 Pro Max,Gold,128.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1145.0,1145.0,4.0,3.0,16.29,59.04,0.0
+Apple,iPhone 13,Blue,128.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,719.0,726.0,4.0,16.0,16.29,59.04,7.0
+Apple,iPhone 14 Pro Max,DeepPurple,256.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1251.0,1279.0,3.0,8.0,16.29,59.04,28.0
+Apple,iPhone 13 mini,Midnight,128.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,649.0,607.0,4.0,20.0,16.29,59.04,-42.0
+Apple,iPhone 14,Purple,128.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,778.0,768.0,4.0,7.0,16.29,59.04,-10.0
+Apple,iPhone 13,Starlight,128.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,719.0,719.0,4.0,24.0,16.29,59.04,0.0
+Xiaomi,Redmi Note 11,GraphiteGrey,128.0,6.43,16.3,4G, 50 ,13.0,2022,1.0,Xiaomi Redmi Note 11,rest,219.95,169.0,4.0,32.0,18.3,39.02,-50.94999999999999
+Samsung,Galaxy A53 5G,AwesomeBlue,128.0,6.5,16.5,5G, 64 ,32.0,0,0.0,Samsung Galaxy A53 5G,rest,389.7,399.0,0.0,0.0,17.6,59.04,9.300000000000011
+Samsung,Galaxy A53 5G,AwesomeBlue,128.0,6.5,16.5,5G, 64 ,32.0,0,0.0,Samsung Galaxy A53 5G,rest,389.7,368.0,0.0,0.0,17.6,59.04,-21.69999999999999
+Samsung,Galaxy S21 FE 5G,Graphite,128.0,6.4,16.3,5G, 12 ,32.0,2022,1.0,Samsung Galaxy S21 FE 5G,rest,499.95,479.0,4.0,20.0,17.6,59.04,-20.94999999999999
+Apple,iPhone 13,Green,128.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,719.0,719.0,4.0,5.0,16.29,59.04,0.0
+Nokia,C21 Plus,DarkCyan,32.0,6.5,16.6,4G, 13 ,5.0,2022,1.0,Nokia C21 Plus,rest,129.95,119.0,5.0,1.0,3.88,39.02,-10.949999999999989
+Apple,iPhone 14 Pro,Silver,256.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1129.0,1125.0,5.0,1.0,16.29,59.04,-4.0
+Apple,iPhone 13,Pink,128.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,719.0,729.0,5.0,15.0,16.29,59.04,10.0
+Apple,iPhone 13 mini,Blue,128.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,621.0,620.0,4.0,10.0,16.29,59.04,-1.0
+Apple,iPhone 14 Pro Max,Gold,256.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1269.0,1269.0,5.0,6.0,16.29,59.04,0.0
+Apple,iPhone 14 Pro Max,DeepPurple,128.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1125.0,1129.0,4.0,9.0,16.29,59.04,4.0
+Apple,iPhone 14,Blue,128.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,773.0,773.0,4.0,9.0,16.29,59.04,0.0
+Samsung,Galaxy A54 5G,AwesomeGraphite,256.0,6.4,16.3,5G, 50 ,32.0,0,0.0,Samsung Galaxy A54 5G,rest,499.95,499.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Samsung,Galaxy S21 FE 5G,Lavender,128.0,6.4,16.3,5G, 12 ,32.0,2022,1.0,Samsung Galaxy S21 FE 5G,rest,629.0,506.6,4.0,20.0,17.6,59.04,-122.39999999999998
+Apple,iPhone 14 Pro Max,Silver,256.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1269.0,1269.0,5.0,3.0,16.29,59.04,0.0
+Apple,iPhone 14 Pro Max,Silver,128.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1125.0,1137.0,5.0,2.0,16.29,59.04,12.0
+Xiaomi,Redmi 9C,MidnightGrey,128.0,6.53,16.6,4G, 13 ,5.0,2020,1.0,Xiaomi Redmi 9C,rest,129.95,122.0,5.0,1.0,18.3,39.02,-7.949999999999989
+Apple,iPhone 12,Black,64.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,schwarz,614.0,599.0,4.0,15.0,16.29,59.04,-15.0
+Apple,iPhone 14,Purple,256.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,919.0,925.0,5.0,2.0,16.29,59.04,6.0
+Apple,iPhone 14,Purple,256.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,919.0,925.0,5.0,2.0,16.29,59.04,6.0
+Apple,iPhone 14 Pro,Gold,128.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1029.0,1029.0,4.0,5.0,16.29,59.04,0.0
+Apple,iPhone 14 Plus,Purple,128.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,899.0,879.0,5.0,5.0,16.29,59.04,-20.0
+Apple,iPhone 13 mini,Starlight,128.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,629.0,629.0,4.0,12.0,16.29,59.04,0.0
+Apple,iPhone 13 mini,Pink,128.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,639.0,629.0,4.0,7.0,16.29,59.04,-10.0
+Samsung,Galaxy S23 Ultra,PhantomBlack,512.0,6.8,17.3,5G, 200 ,12.0,2023,1.0,Samsung Galaxy S23 Ultra,schwarz,1499.0,1499.0,4.0,44.0,17.6,59.04,0.0
+Apple,iPhone 14 Plus,Blue,128.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,913.0,914.0,5.0,5.0,16.29,59.04,1.0
+Apple,iPhone 14 Plus,Midnight,128.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,945.0,919.0,4.0,4.0,16.29,59.04,-26.0
+Apple,iPhone 13,Midnight,256.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,879.0,844.0,4.0,10.0,16.29,59.04,-35.0
+Apple,iPhone 14 Pro,Silver,128.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1029.0,1029.0,4.0,5.0,16.29,59.04,0.0
+Apple,iPhone 14 Pro,Gold,256.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1129.0,1125.0,3.0,4.0,16.29,59.04,-4.0
+Apple,iPhone 14,Starlight,256.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,959.0,923.0,5.0,4.0,16.29,59.04,-36.0
+Samsung,Galaxy S23,PhantomBlack,256.0,6.1,15.5,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23,schwarz,949.0,949.0,4.0,10.0,17.6,59.04,0.0
+Apple,iPhone 14 Plus,Starlight,128.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,919.0,935.0,5.0,4.0,16.29,59.04,16.0
+Apple,iPhone 14 Pro Max,SpaceBlack,512.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,schwarz,1469.0,1469.0,5.0,2.0,16.29,59.04,0.0
+Samsung,Galaxy A34 5G,AwesomeGraphite,128.0,6.6,16.8,5G, 48 ,13.0,0,0.0,Samsung Galaxy A34 5G,rest,369.95,369.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Samsung,Galaxy S21 FE 5G,White,128.0,6.4,16.3,5G, 12 ,32.0,2022,1.0,Samsung Galaxy S21 FE 5G,weiss,699.0,596.0,4.0,20.0,17.6,59.04,-103.0
+Apple,iPhone 12,Green,64.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,rest,614.0,599.0,4.0,4.0,16.29,59.04,-15.0
+Apple,iPhone 14,Starlight,512.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,1269.0,1135.0,0.0,0.0,16.29,59.04,-134.0
+Apple,iPhone 14,Yellow,128.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,819.0,789.0,4.0,4.0,16.29,59.04,-30.0
+Samsung,Galaxy A54 5G,AwesomeGraphite,128.0,6.4,16.3,5G, 50 ,32.0,0,0.0,Samsung Galaxy A54 5G,rest,459.95,459.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Apple,iPhone 12,Blue,64.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,rest,614.0,599.0,4.0,11.0,16.29,59.04,-15.0
+Samsung,Galaxy A54 5G,AwesomeLime,256.0,6.4,16.3,5G, 50 ,32.0,0,0.0,Samsung Galaxy A54 5G,rest,529.0,499.0,0.0,0.0,17.6,59.04,-30.0
+Samsung,Galaxy Z Flip4,BoraPurple,256.0,6.7,17.0,5G, 12 ,10.0,2022,1.0,Samsung Galaxy Z Flip4,rest,1039.0,999.0,4.0,16.0,17.6,59.04,-40.0
+Apple,iPhone 13,Blue,256.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,838.0,838.0,5.0,9.0,16.29,59.04,0.0
+Apple,iPhone 14,Blue,256.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,959.0,925.0,5.0,2.0,16.29,59.04,-34.0
+Samsung,Galaxy A14 5G,LimeGreen,128.0,6.6,16.8,5G, 50 ,13.0,0,0.0,Samsung Galaxy A14 5G,rest,239.95,239.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Xiaomi,Redmi A1,Hellblau,32.0,6.52,16.6,4G, 8 ,5.0,0,0.0,Xiaomi Redmi A1,rest,99.95,85.3,0.0,0.0,18.3,39.02,-14.650000000000006
+Samsung,Galaxy S23,PhantomBlack,128.0,6.1,15.5,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23,schwarz,899.0,899.0,4.0,9.0,17.6,59.04,0.0
+Samsung,Galaxy S23,Green,256.0,6.1,15.5,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23,rest,949.0,949.0,4.0,10.0,17.6,59.04,0.0
+Samsung,Galaxy S23 Ultra,Green,512.0,6.8,17.3,5G, 200 ,12.0,2023,1.0,Samsung Galaxy S23 Ultra,rest,1499.0,1499.0,4.0,46.0,17.6,59.04,0.0
+Samsung,Galaxy S23 Ultra,PhantomBlack,256.0,6.8,17.3,5G, 200 ,12.0,2023,1.0,Samsung Galaxy S23 Ultra,schwarz,1339.0,1349.0,4.0,42.0,17.6,59.04,10.0
+Nokia,C12,Charcoal,64.0,6.3,16.0,4G, 8 ,5.0,2023,1.0,Nokia C12,rest,119.0,123.0,5.0,1.0,3.88,39.02,4.0
+Apple,iPhone 14 Plus,Midnight,256.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,999.0,1028.0,5.0,2.0,16.29,59.04,29.0
+Apple,iPhone 14,Midnight,512.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,1269.0,1134.0,0.0,0.0,16.29,59.04,-135.0
+Samsung,Galaxy A54 5G,AwesomeViolet,128.0,6.4,16.3,5G, 50 ,32.0,0,0.0,Samsung Galaxy A54 5G,rest,459.95,459.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Samsung,Galaxy A34 5G,AwesomeViolet,256.0,6.6,16.8,5G, 48 ,13.0,0,0.0,Samsung Galaxy A34 5G,rest,429.95,429.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Apple,iPhone 12,White,128.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,weiss,699.0,620.0,4.0,15.0,16.29,59.04,-79.0
+Xiaomi,Redmi Note 12 Pro 5G,MidnightBlack,128.0,6.67,16.9,5G, 50 ,16.0,2023,1.0,Xiaomi Redmi Note 12 Pro 5G,schwarz,379.0,312.0,5.0,1.0,18.3,59.04,-67.0
+Samsung,Galaxy S23 Ultra,Green,256.0,6.8,17.3,5G, 200 ,12.0,2023,1.0,Samsung Galaxy S23 Ultra,rest,1339.0,1349.0,4.0,42.0,17.6,59.04,10.0
+Samsung,Galaxy Z Flip4,BoraPurple,128.0,6.7,17.0,5G, 12 ,10.0,2022,1.0,Samsung Galaxy Z Flip4,rest,999.0,862.17,4.0,16.0,17.6,59.04,-136.83000000000004
+Apple,iPhone 14 Plus,Purple,256.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,999.0,1019.0,5.0,1.0,16.29,59.04,20.0
+Apple,iPhone 13 mini,Pink,256.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,779.0,746.0,5.0,6.0,16.29,59.04,-33.0
+Apple,iPhone 14,Yellow,256.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,979.0,905.0,5.0,2.0,16.29,59.04,-74.0
+Apple,iPhone 14 Pro Max,DeepPurple,512.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1470.0,1499.0,5.0,3.0,16.29,59.04,29.0
+Samsung,Galaxy A34 5G,AwesomeViolet,128.0,6.6,16.8,5G, 48 ,13.0,0,0.0,Samsung Galaxy A34 5G,rest,369.95,369.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Xiaomi,Redmi A1,Hellgrün,32.0,6.52,16.6,4G, 8 ,5.0,0,0.0,Xiaomi Redmi A1,rest,99.95,86.6,0.0,0.0,18.3,39.02,-13.350000000000009
+Samsung,Galaxy S23+,Green,256.0,6.6,16.8,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23+,rest,1129.0,1149.0,4.0,14.0,17.6,59.04,20.0
+Apple,iPhone 12,White,64.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,weiss,614.0,599.0,4.0,11.0,16.29,59.04,-15.0
+Samsung,Galaxy S23,Lavender,256.0,6.1,15.5,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23,rest,949.0,949.0,4.0,9.0,17.6,59.04,0.0
+Samsung,Galaxy S23,Cream,128.0,6.1,15.5,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23,rest,899.0,899.0,4.0,9.0,17.6,59.04,0.0
+Samsung,Galaxy S23 Ultra,Cream,256.0,6.8,17.3,5G, 200 ,12.0,2023,1.0,Samsung Galaxy S23 Ultra,rest,1339.0,1349.0,4.0,43.0,17.6,59.04,10.0
+Samsung,Galaxy S23+,PhantomBlack,512.0,6.6,16.8,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23+,schwarz,1249.0,1249.0,4.0,15.0,17.6,59.04,0.0
+Samsung,Galaxy Z Flip4,PinkGold,256.0,6.7,17.0,5G, 12 ,10.0,2022,1.0,Samsung Galaxy Z Flip4,rest,1039.0,999.0,4.0,16.0,17.6,59.04,-40.0
+Apple,iPhone 13 mini,Midnight,512.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,959.0,936.0,4.0,3.0,16.29,59.04,-23.0
+Motorola,Moto E13,CosmicBlack,64.0,6.5,16.5,4G, 13 ,5.0,2023,1.0,Motorola Moto E13,schwarz,99.95,100.0,0.0,0.0,6.17,39.02,0.04999999999999716
+Apple,iPhone 12,Purple,128.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,rest,699.0,665.0,4.0,8.0,16.29,59.04,-34.0
+Apple,iPhone 14 Pro,DeepPurple,512.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1439.0,1587.35,5.0,1.0,16.29,59.04,148.3499999999999
+Apple,iPhone 14 Pro,Silver,512.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1400.0,1379.0,0.0,0.0,16.29,59.04,-21.0
+Samsung,Galaxy A34 5G,AwesomeLime,256.0,6.6,16.8,5G, 48 ,13.0,0,0.0,Samsung Galaxy A34 5G,schwarz,429.95,429.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+OnePlus,11 5G,TitanBlack,256.0,6.7,17.0,5G, 50 ,16.0,2023,1.0,OnePlus 11 5G,schwarz,899.0,874.0,5.0,1.0,3.12,59.04,-25.0
+Google,Pixel 7,Lemongrass,128.0,6.3,16.0,5G, 50 ,10.0,2022,1.0,Google Pixel 7,schwarz,619.0,569.0,4.0,4.0,2.08,59.04,-50.0
+Samsung,Galaxy S23+,PhantomBlack,256.0,6.6,16.8,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23+,rest,1129.0,1149.0,4.0,14.0,17.6,59.04,20.0
+Apple,iPhone 12,Blue,128.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,rest,699.0,665.0,4.0,16.0,16.29,59.04,-34.0
+Google,Pixel 7,Obsidian,256.0,6.3,16.0,5G, 50 ,10.0,2022,1.0,Google Pixel 7,rest,699.0,679.0,0.0,0.0,2.08,59.04,-20.0
+Samsung,Galaxy S23,Cream,256.0,6.1,15.5,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23,rest,949.0,949.0,4.0,9.0,17.6,59.04,0.0
+Samsung,Galaxy S23,Lavender,128.0,6.1,15.5,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23,rest,899.0,899.0,4.0,9.0,17.6,59.04,0.0
+Samsung,Galaxy S23 Ultra,Cream,512.0,6.8,17.3,5G, 200 ,12.0,2023,1.0,Samsung Galaxy S23 Ultra,schwarz,1499.0,1499.0,4.0,42.0,17.6,59.04,0.0
+Samsung,Galaxy A54 5G,AwesomeViolet,256.0,6.4,16.3,5G, 50 ,32.0,0,0.0,Samsung Galaxy A54 5G,rest,529.0,499.0,0.0,0.0,17.6,59.04,-30.0
+Samsung,Galaxy Z Fold4,PhantomBlack,256.0,7.6,19.3,5G, 50 ,10.0,2022,1.0,Samsung Galaxy Z Fold4,schwarz,1599.0,1549.0,4.0,25.0,17.6,59.04,-50.0
+Samsung,Galaxy Z Flip4,Blue,256.0,6.7,17.0,5G, 12 ,10.0,2022,1.0,Samsung Galaxy Z Flip4,rest,999.0,999.0,4.0,15.0,17.6,59.04,0.0
+Samsung,Galaxy Z Fold4,PhantomBlack,512.0,7.6,19.3,5G, 50 ,10.0,2022,1.0,Samsung Galaxy Z Fold4,rest,1699.0,1649.0,4.0,24.0,17.6,59.04,-50.0
+Samsung,Galaxy Z Fold4,Beige,256.0,7.6,19.3,5G, 50 ,10.0,2022,1.0,Samsung Galaxy Z Fold4,schwarz,1599.0,1549.0,4.0,25.0,17.6,59.04,-50.0
+Samsung,Galaxy Z Flip4,Graphite,128.0,6.7,17.0,5G, 12 ,10.0,2022,1.0,Samsung Galaxy Z Flip4,rest,999.0,699.75,4.0,15.0,17.6,59.04,-299.25
+Apple,iPhone 13 mini,Starlight,512.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,1039.0,979.0,5.0,2.0,16.29,59.04,-60.0
+Apple,iPhone 14 Plus,Blue,512.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,schwarz,1399.0,1296.92,5.0,1.0,16.29,59.04,-102.07999999999993
+Apple,iPhone 14 Pro Max,DeepPurple,1000.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1720.0,1699.0,3.0,3.0,16.29,59.04,-21.0
+Apple,iPhone 13 mini,Midnight,256.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,779.0,749.0,4.0,7.0,16.29,59.04,-30.0
+Apple,iPhone 14 Pro Max,SpaceBlack,1000.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1752.0,1699.0,3.0,2.0,16.29,59.04,-53.0
+Apple,iPhone 14,Blue,512.0,6.1,15.5,5G, 12 ,12.0,2022,1.0,Apple iPhone 14,rest,1269.0,1138.0,0.0,0.0,16.29,59.04,-131.0
+Apple,iPhone 14 Plus,Yellow,256.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,999.0,999.0,5.0,1.0,16.29,59.04,0.0
+Apple,iPhone 13,Pink,256.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,schwarz,899.0,829.0,0.0,0.0,16.29,59.04,-70.0
+Apple,iPhone 13,Starlight,256.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,899.0,866.0,4.0,5.0,16.29,59.04,-33.0
+Apple,iPhone 12,Purple,64.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,rest,614.0,599.0,5.0,4.0,16.29,59.04,-15.0
+Apple,iPhone 14 Pro,SpaceBlack,512.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1375.0,1376.0,5.0,1.0,16.29,59.04,1.0
+Apple,iPhone 14 Plus,Blue,256.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,999.0,1034.0,5.0,1.0,16.29,59.04,35.0
+Xiaomi,Redmi 12C,OceanBlue,128.0,6.71,17.0,4G, 50 ,5.0,2023,1.0,Xiaomi Redmi 12C,rest,169.95,149.0,0.0,0.0,18.3,39.02,-20.94999999999999
+Samsung,Galaxy A34 5G,AwesomeSilver,128.0,6.6,16.8,5G, 48 ,13.0,0,0.0,Samsung Galaxy A34 5G,rest,369.95,369.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Samsung,Galaxy A34 5G,AwesomeSilver,256.0,6.6,16.8,5G, 48 ,13.0,0,0.0,Samsung Galaxy A34 5G,schwarz,429.95,429.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+OnePlus,11 5G,EternalGreen,256.0,6.7,17.0,5G, 50 ,16.0,2023,1.0,OnePlus 11 5G,rest,899.0,891.0,5.0,1.0,3.12,59.04,-8.0
+OnePlus,11 5G,TitanBlack,128.0,6.7,17.0,5G, 50 ,16.0,2023,1.0,OnePlus 11 5G,rest,829.0,766.0,0.0,0.0,3.12,59.04,-63.0
+Samsung,Galaxy S23+,Green,512.0,6.6,16.8,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23+,rest,1249.0,1249.0,4.0,15.0,17.6,59.04,0.0
+Samsung,Galaxy S23+,Lavender,256.0,6.6,16.8,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23+,schwarz,1129.0,1149.0,4.0,14.0,17.6,59.04,20.0
+Apple,iPhone 13,Green,256.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,899.0,838.0,5.0,1.0,16.29,59.04,-61.0
+Xiaomi,13 Pro,CeramicBlack,256.0,6.73,17.1,5G, 50 ,32.0,2023,1.0,Xiaomi 13 Pro,weiss,1399.0,1126.0,5.0,2.0,18.3,59.04,-273.0
+Xiaomi,Redmi Note 12 5G,ForestGreen,128.0,6.67,16.9,5G, 48 ,13.0,2023,1.0,Xiaomi Redmi Note 12 5G,rest,299.95,261.0,0.0,0.0,18.3,59.04,-38.94999999999999
+Motorola,Moto G52,CharcoalGrey,128.0,6.6,16.8,4G, 50 ,16.0,2022,1.0,Motorola Moto G52,rest,329.95,181.41,0.0,0.0,6.17,39.02,-148.54
+Google,Pixel 7,Snow,256.0,6.3,16.0,5G, 50 ,10.0,2022,1.0,Google Pixel 7,rest,739.0,710.0,0.0,0.0,2.08,59.04,-29.0
+Google,Pixel 7,Lemongrass,256.0,6.3,16.0,5G, 50 ,10.0,2022,1.0,Google Pixel 7,schwarz,819.0,769.0,0.0,0.0,2.08,59.04,-50.0
+Nokia,G11,Charcoal,32.0,6.52,16.5,4G, 13 ,8.0,2022,1.0,Nokia G11,rest,134.95,108.0,3.0,2.0,3.88,39.02,-26.94999999999999
+Nokia,G11,Charcoal,32.0,6.5,16.5,4G, 13 ,8.0,2022,1.0,Nokia G11,rest,134.95,153.0,3.0,2.0,3.88,39.02,18.05000000000001
+Motorola,Moto G22,CosmicBlack,64.0,6.5,16.5,4G, 50 ,16.0,2022,1.0,Motorola Moto G22,rest,199.95,135.0,0.0,0.0,6.17,39.02,-64.94999999999999
+Motorola,Moto G 5G,FrostedSilver,64.0,6.7,17.0,5G, 48 ,16.0,2020,1.0,Motorola Moto G 5G,rest,239.0,368.0,0.0,0.0,6.17,59.04,129.0
+Samsung,Galaxy S23,Green,128.0,6.1,15.5,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23,schwarz,899.0,899.0,4.0,9.0,17.6,59.04,0.0
+Samsung,Galaxy A54 5G,AwesomeWhite,256.0,6.4,16.3,5G, 50 ,32.0,0,0.0,Samsung Galaxy A54 5G,rest,529.0,499.0,0.0,0.0,17.6,59.04,-30.0
+Samsung,Galaxy Z Fold4,Beige,512.0,7.6,19.3,5G, 50 ,10.0,2022,1.0,Samsung Galaxy Z Fold4,rest,1699.0,1649.0,4.0,24.0,17.6,59.04,-50.0
+Samsung,Galaxy Z Flip4,Graphite,256.0,6.7,17.0,5G, 12 ,10.0,2022,1.0,Samsung Galaxy Z Flip4,rest,1029.0,999.0,4.0,16.0,17.6,59.04,-30.0
+Nokia,G50,MidnightSun,128.0,6.82,17.3,5G, 48 ,8.0,2021,1.0,Nokia G50,schwarz,184.95,183.0,1.0,2.0,3.88,59.04,-1.9499999999999886
+Apple,iPhone 13 mini,Blue,256.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,799.0,715.0,5.0,7.0,16.29,59.04,-84.0
+Apple,iPhone 14 Plus,Starlight,256.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,999.0,1034.0,5.0,2.0,16.29,59.04,35.0
+Apple,iPhone 13 mini,Pink,512.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,999.0,867.0,5.0,2.0,16.29,59.04,-132.0
+Apple,iPhone 14 Pro Max,Gold,1000.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1752.0,1699.0,3.0,3.0,16.29,59.04,-53.0
+Apple,iPhone 14 Pro Max,Silver,1000.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,schwarz,1752.0,1699.0,3.0,2.0,16.29,59.04,-53.0
+Apple,iPhone 13,Midnight,512.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,1139.0,905.0,5.0,1.0,16.29,59.04,-234.0
+Apple,iPhone 14 Plus,Midnight,512.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,1379.0,1192.0,5.0,1.0,16.29,59.04,-187.0
+Apple,iPhone 13,Starlight,512.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,rest,1059.0,1005.0,0.0,0.0,16.29,59.04,-54.0
+Apple,iPhone 14 Plus,Yellow,128.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,979.0,899.0,5.0,3.0,16.29,59.04,-80.0
+Apple,iPhone 14 Plus,Yellow,512.0,6.7,17.0,5G, 12 ,12.0,2022,1.0,Apple iPhone 14 Plus,rest,1379.0,1329.0,5.0,1.0,16.29,59.04,-50.0
+Apple,iPhone 14 Pro,DeepPurple,1000.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1634.0,1599.0,5.0,3.0,16.29,59.04,-35.0
+Apple,iPhone 14 Pro Max,Silver,512.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,rest,1519.0,1519.0,5.0,1.0,16.29,59.04,0.0
+Apple,iPhone 14 Pro Max,Gold,512.0,6.7,17.0,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro Max,schwarz,1559.0,1707.45,5.0,1.0,16.29,59.04,148.45000000000005
+Samsung,Galaxy Z Flip4,Graphite,512.0,6.7,17.0,5G, 12 ,10.0,2022,1.0,Samsung Galaxy Z Flip4,weiss,1149.0,900.3,3.0,16.0,17.6,59.04,-248.70000000000005
+Xiaomi,11 Lite 5G NE,TruffleBlack,128.0,6.55,16.6,5G, 64 ,20.0,2021,1.0,Xiaomi 11 Lite 5G NE,rest,399.95,299.0,0.0,0.0,18.3,59.04,-100.94999999999999
+Samsung,Galaxy Z Fold3 5G,PhantomBlack,256.0,7.6,19.3,5G, 12 ,10.0,2021,1.0,Samsung Galaxy Z Fold3 5G,rest,1437.0,970.2,4.0,1.0,17.6,59.04,-466.79999999999995
+Samsung,Galaxy Z Fold3 5G,PhantomGreen,256.0,7.6,19.3,5G, 12 ,10.0,2021,1.0,Samsung Galaxy Z Fold3 5G,rest,1437.0,1335.2,0.0,0.0,17.6,59.04,-101.79999999999995
+Samsung,Galaxy Z Fold3 5G,PhantomSilver,512.0,7.6,19.3,5G, 12 ,10.0,2021,1.0,Samsung Galaxy Z Fold3 5G,rest,1649.0,973.5,0.0,0.0,17.6,59.04,-675.5
+Samsung,Galaxy Z Fold3 5G,PhantomBlack,512.0,7.6,19.3,5G, 12 ,10.0,2021,1.0,Samsung Galaxy Z Fold3 5G,rest,1519.0,1147.0,4.0,2.0,17.6,59.04,-372.0
+Apple,iPhone 14 Pro,Gold,1000.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1633.0,1599.0,5.0,2.0,16.29,59.04,-34.0
+Nokia,XR20,Granite,128.0,6.67,16.9,5G, 48 ,8.0,2021,1.0,Nokia XR20,rest,499.95,482.0,0.0,0.0,3.88,59.04,-17.94999999999999
+Apple,iPhone 14 Pro,SpaceBlack,1000.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1679.0,1840.55,5.0,2.0,16.29,59.04,161.54999999999995
+Apple,iPhone 14 Pro,Gold,512.0,6.1,15.5,5G, 48 ,12.0,2022,1.0,Apple iPhone 14 Pro,rest,1406.0,1574.81,0.0,0.0,16.29,59.04,168.80999999999995
+Xiaomi,Redmi 12C,MintGreen,128.0,6.71,17.0,4G, 50 ,5.0,2023,1.0,Xiaomi Redmi 12C,rest,169.95,159.0,0.0,0.0,18.3,39.02,-10.949999999999989
+Motorola,Moto G 5G,VolcanicGrey,64.0,6.7,17.0,5G, 48 ,16.0,2020,1.0,Motorola Moto G 5G,rest,239.0,448.0,0.0,0.0,6.17,59.04,209.0
+Motorola,Moto G31,MineralGrey,128.0,6.4,16.3,4G, 50 ,13.0,2021,1.0,Motorola Moto G31,schwarz,199.95,129.0,0.0,0.0,6.17,39.02,-70.94999999999999
+Motorola,Edge 20 Pro,BlueVeganLeather,256.0,6.7,17.0,5G, 108 ,32.0,2021,1.0,Motorola Edge 20 Pro,rest,529.0,656.0,0.0,0.0,6.17,59.04,127.0
+Samsung,Galaxy A34 5G,AwesomeLime,128.0,6.6,16.8,5G, 48 ,13.0,0,0.0,Samsung Galaxy A34 5G,rest,369.95,369.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Samsung,Galaxy A54 5G,AwesomeWhite,128.0,6.4,16.3,5G, 50 ,32.0,0,0.0,Samsung Galaxy A54 5G,rest,459.95,459.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Samsung,Galaxy A34 5G,AwesomeGraphite,256.0,6.6,16.8,5G, 48 ,13.0,0,0.0,Samsung Galaxy A34 5G,schwarz,429.95,429.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+Xiaomi,Redmi Note 12 5G,OnyxGray,128.0,6.67,16.9,5G, 48 ,13.0,2023,1.0,Xiaomi Redmi Note 12 5G,rest,299.95,261.0,0.0,0.0,18.3,59.04,-38.94999999999999
+Huawei,Mate 50 Pro,Schwarz,256.0,6.74,17.1,4G, 50 ,13.0,2022,1.0,Huawei Mate 50 Pro,schwarz,1169.0,1089.0,5.0,1.0,2.29,39.02,-80.0
+Huawei,Mate 50 Pro,Silber,256.0,6.74,17.1,4G, 50 ,13.0,2022,1.0,Huawei Mate 50 Pro,schwarz,1169.0,1149.0,5.0,1.0,2.29,39.02,-20.0
+Nokia,X30 5G,IceWhite,128.0,6.43,16.3,5G, 50 ,16.0,2022,1.0,Nokia X30 5G,rest,479.95,435.0,0.0,0.0,3.88,59.04,-44.94999999999999
+Nokia,X30 5G,CloudyBlue,128.0,6.43,16.3,5G, 50 ,16.0,2022,1.0,Nokia X30 5G,rest,469.95,456.54,0.0,0.0,3.88,59.04,-13.409999999999968
+Nokia,X30 5G,CloudyBlue,256.0,6.43,16.3,5G, 50 ,16.0,2022,1.0,Nokia X30 5G,schwarz,519.0,478.0,0.0,0.0,3.88,59.04,-41.0
+Google,Pixel 7,Snow,128.0,6.3,16.0,5G, 50 ,10.0,2022,1.0,Google Pixel 7,rest,619.0,569.0,3.0,4.0,2.08,59.04,-50.0
+Samsung,Galaxy S23+,Lavender,512.0,6.6,16.8,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23+,rest,1249.0,1249.0,4.0,14.0,17.6,59.04,0.0
+Samsung,Galaxy S23+,Cream,512.0,6.6,16.8,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23+,rest,1249.0,1249.0,4.0,15.0,17.6,59.04,0.0
+Samsung,Galaxy S23+,Cream,256.0,6.6,16.8,5G, 50 ,12.0,2023,1.0,Samsung Galaxy S23+,weiss,1129.0,1149.0,4.0,14.0,17.6,59.04,20.0
+Apple,iPhone 13 mini,Green,512.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,1059.0,1036.0,5.0,2.0,16.29,59.04,-23.0
+Apple,iPhone 13,Green,512.0,6.1,15.5,5G, 12 ,12.0,2021,1.0,Apple iPhone 13,weiss,1159.0,1057.0,0.0,0.0,16.29,59.04,-102.0
+Apple,iPhone 13 mini,Green,256.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,799.0,715.0,5.0,6.0,16.29,59.04,-84.0
+Apple,iPhone 12,Blue,256.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,schwarz,899.0,823.0,4.0,4.0,16.29,59.04,-76.0
+Xiaomi,Redmi Note 12 5G,IceBlue,128.0,6.67,16.9,5G, 48 ,13.0,2023,1.0,Xiaomi Redmi Note 12 5G,schwarz,299.95,277.0,0.0,0.0,18.3,59.04,-22.94999999999999
+Apple,iPhone 12,Black,128.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,rest,699.0,665.0,4.0,0.0,16.29,59.04,-34.0
+OPPO,A96,SunsetBlue,128.0,6.59,16.7,4G, 50 ,16.0,2022,1.0,OPPO A96,weiss,289.95,227.0,4.0,0.0,4.92,39.02,-62.94999999999999
+OPPO,A57s,StarryBlack,128.0,6.56,16.7,4G, 50 ,8.0,2022,1.0,OPPO A57s,schwarz,159.0,164.0,3.0,0.0,4.92,39.02,5.0
+Apple,iPhone 12,Green,128.0,6.1,15.5,5G, 12 ,12.0,2020,1.0,Apple iPhone 12,schwarz,699.0,665.0,4.0,0.0,16.29,59.04,-34.0
+Apple,iPhone 13 mini,Starlight,256.0,5.4,13.7,5G, 12 ,12.0,2021,1.0,Apple iPhone 13 mini,rest,779.0,749.0,5.0,0.0,16.29,59.04,-30.0
+OPPO,Find N2 Flip,MoonlitPurple,256.0,6.8,17.3,5G, 50 ,32.0,2023,1.0,OPPO Find N2 Flip,rest,999.0,970.0,0.0,0.0,4.92,59.04,-29.0
+OPPO,Find N2 Flip,AstralBlack,256.0,6.8,17.3,5G, 50 ,32.0,2023,1.0,OPPO Find N2 Flip,rest,999.0,970.0,0.0,0.0,4.92,59.04,-29.0
+OPPO,Find X3 Neo,StarlightBlack,256.0,6.5,16.5,5G, 50 ,32.0,2021,1.0,OPPO Find X3 Neo,rest,359.0,354.0,0.0,0.0,4.92,59.04,-5.0
+OPPO,A96,StarryBlack,128.0,6.59,16.7,4G, 50 ,16.0,2022,1.0,OPPO A96,rest,289.95,199.0,2.0,0.0,4.92,39.02,-90.94999999999999
+Samsung,Galaxy A54 5G,AwesomeLime,128.0,6.4,16.3,5G, 50 ,32.0,0,0.0,Samsung Galaxy A54 5G,rest,459.95,459.0,0.0,0.0,17.6,59.04,-0.9499999999999886
+OPPO,Find X3 Pro,GlossBlack,256.0,6.7,17.0,5G, 50 ,32.0,2021,1.0,OPPO Find X3 Pro,rest,899.0,499.0,0.0,0.0,4.92,59.04,-400.0
+OPPO,Find X3 Neo,GalacticSilver,256.0,6.5,16.5,5G, 50 ,32.0,2021,1.0,OPPO Find X3 Neo,rest,359.0,684.0,0.0,0.0,4.92,59.04,325.0
+Samsung,Galaxy Z Flip4,BoraPurple,512.0,6.7,17.0,5G, 12 ,10.0,2022,1.0,Samsung Galaxy Z Flip4,Rest,1149.0,1099.0,4.0,0.0,17.6,59.04,-50.0
+Motorola,Moto G 5G Plus,SurfingBlue,64.0,6.7,17.0,5G, 48 ,16.0,2020,1.0,Motorola Moto G 5G Plus,Rest,299.0,350.0,5.0,0.0,6.17,59.04,51.0
+OPPO,A57s,SkyBlue,128.0,6.56,16.7,4G, 50 ,8.0,2022,1.0,OPPO A57s,Rest,159.0,179.0,0.0,0.0,4.92,39.02,20.0
+Google,Pixel 7,Obsidian,128.0,6.3,16.0,5G, 50 ,10.0,2022,1.0,Google Pixel 7,Rest,619.0,555.0,3.0,0.0,2.08,59.04,-64.0
