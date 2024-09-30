@@ -10,20 +10,20 @@ This project was developed as part of a course, focused on web scraping data ana
 
 ## Code Structure:
 
-*  _Start the scraper:_
+*  **WebScraping.ipynb:**
     The scraped data will be saved into a CSV file named Scrape.csv.
-*  **Data Cleaning:
+*  **DataCleaning.py:**
     Data is cleaned and transformed for further steps.
-*  **Merge:
+*  **Merge:**
     The previously cleaned data is merged with clean smartphone data from another website.
-*  **Database Upload Script (VETTIM~2.PY)
+*  **Database Upload Script (VETTIM~2.PY):**
     This script reads the scraped CSV files and loads the data into a MariaDB database.
     Ensure that MariaDB is running and you have created the necessary database with credentials.
 
 ## Data Stages:
-*    Stage1: Raw data from scraping.
-*    Stage2: The scraped data is intentionally contaminated for learning purposes to allow for later cleaning using Python.
-*    Stage3: Clean/Transformed data.
-*    Merge: Merged data
+*    **Stage1:** Raw data from scraping.
+*    **Stage2:** The scraped data is intentionally contaminated for learning purposes to allow for later cleaning using Python.
+*    **Stage3:** Clean/Transformed data.
+*    **Merge:** Merged data
 
 
